@@ -1,1 +1,2 @@
 # financial_data_cleaner
+A user friendly GUI that was built custom for a friend to clean the csvs he downloads from his credit and debit cards. It cleans the data and fills in the budget category from an external spreadsheet, prompting the user to update the data if there are any unknown merchants in the file. The format of the output connects with a power bi report that I made to visualize his budget and spending.
